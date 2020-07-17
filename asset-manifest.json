@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/naughty-clients-card/static/css/main.283087ae.chunk.css",
+    "main.js": "/naughty-clients-card/static/js/main.fb078992.chunk.js",
+    "main.js.map": "/naughty-clients-card/static/js/main.fb078992.chunk.js.map",
+    "runtime-main.js": "/naughty-clients-card/static/js/runtime-main.d74159f7.js",
+    "runtime-main.js.map": "/naughty-clients-card/static/js/runtime-main.d74159f7.js.map",
+    "static/js/2.c3b51709.chunk.js": "/naughty-clients-card/static/js/2.c3b51709.chunk.js",
+    "static/js/2.c3b51709.chunk.js.map": "/naughty-clients-card/static/js/2.c3b51709.chunk.js.map",
+    "index.html": "/naughty-clients-card/index.html",
+    "precache-manifest.2e1cdb5723afc82aafa0c9c879960731.js": "/naughty-clients-card/precache-manifest.2e1cdb5723afc82aafa0c9c879960731.js",
+    "service-worker.js": "/naughty-clients-card/service-worker.js",
+    "static/css/main.283087ae.chunk.css.map": "/naughty-clients-card/static/css/main.283087ae.chunk.css.map",
+    "static/js/2.c3b51709.chunk.js.LICENSE.txt": "/naughty-clients-card/static/js/2.c3b51709.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d74159f7.js",
+    "static/js/2.c3b51709.chunk.js",
+    "static/css/main.283087ae.chunk.css",
+    "static/js/main.fb078992.chunk.js"
+  ]
+}
